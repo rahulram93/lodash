@@ -1,6 +1,6 @@
 {
   "name": "lodash",
-  "version": "5.0.0",
+  "version": "5.0.1-20260727033709-fb",
   "license": "MIT",
   "private": true,
   "main": "dist/lodash.js",
@@ -23,7 +23,7 @@
     "eslint-plugin-import": "2.28.1",
     "eslint-plugin-prettier": "5.0.0",
     "husky": "8.0.3",
-    "lint-staged": "14.0.1",
+    "lint-staged": "17.2.0",
     "lodash": "4.17.21",
     "prettier": "3.0.3"
   },
